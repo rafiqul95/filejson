@@ -1,0 +1,74 @@
+[
+    {
+        "id": "1",
+        "displayName": "iCream-Colored luctus pulvinar",
+        "price": 300,
+        "expiredDate": "12/05/2022",
+        "category": "medicine",
+        "description": "Helps to reduce stress",
+        "img": "https://i.ibb.co/mb6KzK1/img1.jpg"
+    },
+    {
+        "id": "2",
+        "displayName": "Cream Colored",
+        "price": 200,
+        "expiredDate": "22/05/2022",
+        "category": "medicine",
+        "description": "Helps to reduce stress",
+        "img": "https://i.ibb.co/zXYGhDD/img2.jpg"
+    },
+    {
+        "id": "3",
+        "displayName": "Donkey Kong",
+        "price": 500,
+        "expiredDate": "15/05/2022",
+        "category": "medicine",
+        "description": "Helps to reduce stress",
+        "img": "https://i.ibb.co/RcXPT67/img5.jpg"
+    },
+    {
+        "id": "4",
+        "displayName": "White linen sheer dress",
+        "price": 330,
+        "expiredDate": "14/05/2023",
+        "category": "medicine",
+        "description": "Helps to reduce stress",
+        "img": "https://i.ibb.co/sm0sX8R/mg3.jpg"
+    },
+    {
+        "id": "5",
+        "displayName": "Pale pink and black buttoned dress",
+        "price": 630,
+        "expiredDate": "12/05/2022",
+        "category": "medicine",
+        "description": "Helps to reduce stress",
+        "img": "https://i.ibb.co/cD6sQtt/mg4.jpg"
+    },
+    {
+        "id": "6",
+        "displayName": "iCream-Colored luctus pulvinar",
+        "price": 100,
+        "expiredDate": "17/06/2022",
+        "category": "medicine",
+        "description": "Helps to reduce stress",
+        "img": "https://i.ibb.co/CKXTXfk/mg6.jpg"
+    },
+    {
+        "id": "7",
+        "displayName": "White linen sheer dress",
+        "price": 330,
+        "expiredDate": "14/05/2023",
+        "category": "medicine",
+        "description": "Helps to reduce stress",
+        "img": "https://i.ibb.co/sm0sX8R/mg3.jpg"
+    },
+    {
+        "id": "8",
+        "displayName": "Pale pink and black buttoned dress",
+        "price": 630,
+        "expiredDate": "12/05/2022",
+        "category": "medicine",
+        "description": "Helps to reduce stress",
+        "img": "https://i.ibb.co/cD6sQtt/mg4.jpg"
+    }
+]
